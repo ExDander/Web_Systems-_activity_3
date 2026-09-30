@@ -1,39 +1,39 @@
 body {
-    background-color: rgb(88, 50, 34);
+  background-color: rgb(88, 50, 34);
 }
 
 .quiz-container {
-    margin: 0 auto;
+  margin: 0 auto;
 }
 
 .question-container {
-    background-color: #cf8b63;
-    max-width: 500px;
-    max-height: fit-content;
-    border-radius: 8px;
-    margin: 15px auto;
-    padding: 20px;
+  background-color: #cf8b63;
+  max-width: 500px;
+  max-height: fit-content;
+  border-radius: 8px;
+  margin: 15px auto;
+  padding: 20px;
 }
 
 .btn-container {
-    text-align: right;
+  text-align: right;
 }
 
 .btn-submit {
-    background-color: #cf8b63;
-    max-width: 500px;
-    max-height: fit-content;
-    border-radius: 8px;
-    text-align: left;
-    padding: 20px;
+  background-color: #cf8b63;
+  max-width: 500px;
+  max-height: fit-content;
+  border-radius: 8px;
+  text-align: left;
+  padding: 20px;
 }
 
 p {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
 }
 
 form {
-    margin: 5px auto;
-    width: fit-content;
+  margin: 5px auto;
+  width: fit-content;
 }
